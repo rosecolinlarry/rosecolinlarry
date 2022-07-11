@@ -28,7 +28,7 @@ Hi, I'm Kaisa. This is my personal project repository. If you're interested in t
 
 <img src="./Color/Snapchat.svg" alt="snapchat-logo" width="25"/> [Snapchat](https://www.snapchat.com/add/kcrawfordtaylor) (kcrawfordtaylor)
 
-<img src="./Color/Paypal.svg" alt="paypal-logo" width="25"/> [Paypal](paypal.me/kaisact) (kaisact)
+<img src="./Color/PayPal.svg" alt="paypal-logo" width="25"/> [Paypal](paypal.me/kaisact) (kaisact)
 
 <img src="./Color/Discord.svg" alt="discord-logo" width="25"/> Discord kaisacat#5816
 
