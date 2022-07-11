@@ -14,7 +14,7 @@ _If you're interested in the origin of the name `rosecolinlarry`, I recommend re
 &nbsp;  <a title="Email"      href="mailto:kcrawfordtaylor@gmail.com">                          	<img src="./Assets/Logos/Gmail.svg" alt="gmail-logo" width="25"/>          	</a> 
 &nbsp;  <a title="Instagram"  href="https://www.instagram.com/kaisacrawfordtaylor/">            	<img src="./Assets/Logos/Instagram.svg" alt="instagram-logo" width="25"/>  	</a> 
 &nbsp;  <a title="LinkedIn"   href="https://www.linkedin.com/in/kaisact">                       	<img src="./Assets/Logos/LinkedIN.svg" alt="linkedin-logo" width="25"/>    	</a>
-&nbsp;  <a title="Paypal"     href="paypal.me/kaisact">                                         	<img src="./Assets/Logos/PayPal.svg" alt="paypal-logo" width="25"/>        	</a>
+&nbsp;  <a title="Paypal"     href="paypal.me/kaisact">                                         	<img src="./Assets/Logos/Paypal.svg" alt="paypal-logo" width="25"/>        	</a>
 &nbsp;  <a title="Snapchat"   href="https://www.snapchat.com/add/kcrawfordtaylor">              	<img src="./Assets/Logos/Snapchat.svg" alt="snapchat-logo" width="25"/>    	</a> 
 &nbsp;  <a title="Steam"      href="https://steamcommunity.com/id/kaisacat/">                   	<img src="./Assets/Logos/Steam.svg" alt="steam-logo" width="25"/>          	</a> 
 &nbsp;  <a title="TikTok"     href="https://www.tiktok.com/@kaisacat">                          	<img src="./Assets/Logos/TikTok.svg" alt="tiktok-logo" width="25"/>        	</a> 
