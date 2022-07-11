@@ -18,9 +18,9 @@ Hi, I'm Kaisa. This is my personal project repository. If you're interested in t
 
 <img src="./Color/Twitter.svg" alt="twitter-logo" width="25"/> [Twitter](https://twitter.com/kaisacat) (kaisacat)
 
-<img src="./Color/LinkedIn.svg" alt="linkedin-logo" width="25"/> [LinkedIn](https://www.linkedin.com/in/kaisact)
+<img src="./Color/LinkedIN.svg" alt="linkedin-logo" width="25"/> [LinkedIn](https://www.linkedin.com/in/kaisact)
 
-<img src="./Color/YouTube.svg" alt="youtube-logo" width="25"/> [Youtube](https://www.youtube.com/channel/UCcJqZZtOkG_XuvHyelXnDeQ)
+<img src="./Color/Youtube.svg" alt="youtube-logo" width="25"/> [Youtube](https://www.youtube.com/channel/UCcJqZZtOkG_XuvHyelXnDeQ)
 
 <img src="./Color/Twitch.svg" alt="twitch-logo" width="25"/> [Twitch](https://www.twitch.tv/kaisacat) (kaisacat)
 
